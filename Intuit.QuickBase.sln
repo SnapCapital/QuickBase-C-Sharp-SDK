@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intuit.QuickBase.UnitTests"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intuit.QuickBase.IntegrationTests", "Intuit.QuickBase.IntegrationTests\Intuit.QuickBase.IntegrationTests.csproj", "{D88A7B14-7A52-4A78-B51C-D33BA947F551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapCapital.QuickBase.IntegrationsTests", "SnapCapital.QuickBase.IntegrationsTests\SnapCapital.QuickBase.IntegrationsTests.csproj", "{EDAB8310-30FE-4DDB-8384-D6CAF30F0AD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D88A7B14-7A52-4A78-B51C-D33BA947F551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D88A7B14-7A52-4A78-B51C-D33BA947F551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D88A7B14-7A52-4A78-B51C-D33BA947F551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAB8310-30FE-4DDB-8384-D6CAF30F0AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAB8310-30FE-4DDB-8384-D6CAF30F0AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAB8310-30FE-4DDB-8384-D6CAF30F0AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAB8310-30FE-4DDB-8384-D6CAF30F0AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
